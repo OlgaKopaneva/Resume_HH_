@@ -1,17 +1,17 @@
 # Проект 1. Анализ резюме из HeadHunter (PJ)
 ---
 ## Оглавление
-[1. Описание проекта](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Результат)
+[5. Результат](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Результат)
 
-[6. Выводы](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Выводы)
+[6. Выводы](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Выводы)
 
 ---
 
@@ -21,7 +21,7 @@
 *Постановка задачи текущего проекта:* преобразовать, исследовать и очистить данные представленного датасета с резюме 
 
 
-:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HHe/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Оглавление)
 
 ---
 ### Какой кейс решаем
@@ -31,13 +31,13 @@
 Отсутствие в итоговом датасете дубликатов, пропущенных значений, выбросов, все категориальные переменные переведены в числовой / логический вид; данные готовы к использованию в построении модели
 
 
-:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Оглавление)
 
 ---
 ### Краткая информация о данных
 Исходный датасет размещен по ссылке: https://drive.google.com/file/d/1ZfplJnpXWvzv98_4axXdXWyu-IbzBf3d/view?usp=sharing (перед запуском ноутбука его и ноутбук необходимо сохранить локально)
 
-:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Оглавление)
 
 ---
 ### Этапы работы над проектом
@@ -46,13 +46,13 @@
 3. Разведывательный анализ данных (построение графиков зависимостей между признаками)
 4. Очистка данных (удаление дубликатов, заполнение и удаление пропусков, удаление выбросов)
 
-:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Оглавление)
 
 ---
 ### Результат
 Модель готова к дальнейшему использованию заказчиком для прогнозирования заработной платы
 
-:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Оглавление)
 
 ---
 ### Выводы
@@ -69,4 +69,4 @@
     * тепловая карта распределения з/п в зависимости от уровня образования демонстрирует очевидную пользу высшего образования: соискатели с данным уровнем образования претендуют на более высокие зарплаты в течение всей трудовой жизни и, собственно трудовая жизнь у них длится дольше, также из плюсов - наиболее быстрый карьерный рост
 
 
-:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/OlgaKopaneva/Resume_HH_/blob/main/README.md#Оглавление)
